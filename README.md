@@ -1,17 +1,5 @@
-# Wedding invitation (Ivan & Anna)
+# Wedding invitation
 
 `Freelance project`
 
-### Description:
-This project showcases a **wedding invitation** page that I have developed as a *freelance project*, based on a design mockup in *Figma*. The page is beautifully designed and includes animations to enhance the user experience. The page serves as an invitation to a wedding event, providing essential information and creating an engaging atmosphere for the guests.  
-Link: https://astik-dev.github.io/wedding-invitation/
-
-### Functional:
-1. Animation
-1. Responsiveness for different screen sizes.
-
-### Technologies:
-- **HTML5**
-- **CSS3 (SCSS)**
-- **JavaScript**
-- **BEM**
+Responsive wedding invitation page implemented with HTML, SCSS, and JavaScript, based on a Figma design. The page includes animations to enhance the user experience and presents essential information about the wedding in an engaging and visually appealing way.
